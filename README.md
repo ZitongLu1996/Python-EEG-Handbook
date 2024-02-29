@@ -2,11 +2,14 @@
 A handbook for EEG data analysis based on Python
 
 
-Preprocessing:  
+Chapter 1: Preprocessing Single-subject Data:  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ZitongLu1996/Python-EEG-Handbook/blob/master/EEG_Python_Handbook_Preprocessing.ipynb)
 
-Multiple-subject analysis:  
+Chapter 2: Basic Python Data Operations:  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ZitongLu1996/Python-EEG-Handbook/blob/master/EEG_Python_Handbook_DataOperations.ipynb)
+
+Chapter 3: Multiple-Subject Analysis:  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ZitongLu1996/Python-EEG-Handbook/blob/master/EEG_Python_Handbook_MultisubjectsAnalysis.ipynb)
 
-Advanced analysis:  
+Chapter 4: Advanced EEG Analysis:  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ZitongLu1996/Python-EEG-Handbook/blob/master/EEG_Python_Handbook_AdvancedAnalysis.ipynb)
