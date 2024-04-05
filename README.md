@@ -16,7 +16,7 @@ Chapter 4: Advanced EEG Analysis:
 
 ### Dependencies
 
-Python >= 3.6
-MNE >= 1.6
-NeuroRA >= 1.1.6.11
+Python >= 3.6  
+MNE >= 1.6  
+NeuroRA >= 1.1.6.11  
 inverted-encoding == 0.2.3
