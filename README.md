@@ -13,3 +13,10 @@ Chapter 3: Multiple-Subject Analysis:
 
 Chapter 4: Advanced EEG Analysis:  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ZitongLu1996/Python-EEG-Handbook/blob/master/EEG_Python_Handbook_AdvancedAnalysis.ipynb)
+
+### Dependencies
+
+Python >= 3.6
+MNE >= 1.6
+NeuroRA >= 1.1.6.11
+inverted-encoding == 0.2.3
